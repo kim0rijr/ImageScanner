@@ -1,5 +1,3 @@
-
-```
 # Document Intelligence with OpenCV & Tesseract OCR
 
 ![Platforms](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-blue) 
@@ -68,19 +66,6 @@ This project demonstrates how to:
 
 # Install image libs
 brew install leptonica
-```
-
-**Linux:**
-```bash
-# Required libraries
-sudo apt install libopencv-dev python3-dev libgl1
-```
-
-### 3. Python Virtual Environment (All OS)
-```bash
-python -m venv docenv
-source docenv/bin/activate  # Linux/macOS
-docenv\Scripts\activate     # Windows
 ```
 
 ---
