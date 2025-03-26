@@ -7,7 +7,7 @@
 A cross-platform guide for document text extraction using **OpenCV** and **Tesseract OCR**. Complete with OS-specific setup instructions.
 
 ---
-
+## 🙌 Intro
 A beginner-friendly guide to extracting text from documents using **OpenCV** for image processing and **Tesseract OCR** for text recognition. Designed for AI/Engineering students to understand foundational document intelligence concepts.
 
 ---
@@ -158,15 +158,3 @@ jupyter notebook      # Jupyter version
 ## 📜 License
 MIT License - Free for academic and commercial use. Tesseract OCR is Apache 2.0 licensed.
 ```
-
-Key formatting improvements made:
-1. Consistent header levels using `##` and `###`
-2. Proper code block syntax with language specification
-3. Fixed table formatting with aligned columns
-4. Consistent list formatting
-5. Proper indentation and spacing
-6. Working markdown links
-7. Correct badge syntax
-8. Proper section separation with horizontal rules (`---`)
-
-The README now maintains proper markdown syntax while preserving all original content and functionality.
