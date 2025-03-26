@@ -1,5 +1,7 @@
 # Document Intelligence with OpenCV & Tesseract OCR
 
+![Demo](https://img.shields.io/badge/Demo-Streamlit-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+
 A beginner-friendly guide to extracting text from documents using **OpenCV** for image processing and **Tesseract OCR** for text recognition. Designed for AI/Engineering students to understand foundational document intelligence concepts.
 
 ---
@@ -41,6 +43,8 @@ Pillow        # Image handling
 python-dotenv # Environment variables (optional)
 
 ---
+
+# Requirements
 
 ![Platforms](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-blue) 
 ![Demo](https://img.shields.io/badge/Demo-Streamlit-important) 
