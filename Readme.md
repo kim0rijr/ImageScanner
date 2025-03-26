@@ -127,8 +127,6 @@ streamlit run app.py  # Web app
 jupyter notebook      # Jupyter version
 ```
 
-![Cross-Platform Demo](demo_all_os.png)
-
 ---
 
 ## 🚨 Troubleshooting
@@ -140,17 +138,4 @@ jupyter notebook      # Jupyter version
 | **All** | `TesseractNotFoundError` | Verify path with `which tesseract` (Linux/macOS) |
 
 ---
-
-## 📜 License
-MIT License - Free for academic and commercial use. Tesseract OCR is Apache 2.0 licensed.
-```
-
-Key additions:
-1. Separate system requirements for each OS
-2. Platform-specific installation tables
-3. Apple Silicon (M1/M2) optimization notes
-4. Linux headless server configuration
-5. OS-specific troubleshooting table
-6. Universal commands marked clearly
-7. Visual badges showing cross-platform support
 
