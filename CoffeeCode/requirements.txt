@@ -1,0 +1,14 @@
+# **Coffee&Code Document Intelligence Requirements.txt** #
+# Core packages
+opencv-python==4.8.0.76         # Image processing
+pytesseract==0.3.10             # Tesseract OCR wrapper
+numpy==1.26.0                   # Array handling
+
+# Interface options (choose one or both)
+streamlit==1.22.0               # For web app version
+jupyter==1.0.0                  # For notebook version
+matplotlib==3.7.1               # For Jupyter visualizations
+
+# Additional dependencies
+pillow==9.4.0                   # Image handling for Tesseract
+python-dotenv==1.0.0            # For environment variables (optional)
