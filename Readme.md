@@ -40,6 +40,7 @@ matplotlib    # Visualization (Jupyter)
 Pillow        # Image handling
 python-dotenv # Environment variables (optional)
 
+---
 
 ![Platforms](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-blue) 
 ![Demo](https://img.shields.io/badge/Demo-Streamlit-important) 
