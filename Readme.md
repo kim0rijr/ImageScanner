@@ -110,7 +110,7 @@ pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
 ## 🚀 Universal Installation
 ```bash
 # Clone repo
-git clone [https://github.com/yourusername/document-intelligence-demo.git](https://github.com/chankjen/Coffee-n-Code.git)
+git clone [here](https://github.com/chankjen/Coffee-n-Code.git)
 cd Coffee-n-Code
 
 # Install requirements (in virtual env)
