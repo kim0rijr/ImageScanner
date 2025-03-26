@@ -1,5 +1,46 @@
 # Document Intelligence with OpenCV & Tesseract OCR
 
+A beginner-friendly guide to extracting text from documents using **OpenCV** for image processing and **Tesseract OCR** for text recognition. Designed for AI/Engineering students to understand foundational document intelligence concepts.
+
+---
+
+## 📖 Purpose
+This project demonstrates how to:
+- Detect text regions in images using basic computer vision techniques
+- Extract machine-readable text with Tesseract OCR
+- Build interactive document scanners with Streamlit/Jupyter
+- **No deep learning or complex libraries** (like LayoutParser) required!
+
+---
+
+## 🔑 Key Takeaways
+1. **OCR Workflow**: Preprocessing → Text Localization → OCR → Postprocessing  
+2. **Tool Roles**:  
+   - `OpenCV`: Image thresholding, contour detection, ROI extraction  
+   - `Tesseract`: Optical Character Recognition (OCR) engine  
+3. **Real-World Challenges**: Handling low contrast, complex layouts, multi-language text  
+4. **Limitations**: Simpler but less accurate than deep learning approaches (e.g., LayoutParser)
+
+---
+
+## 🛠️ Tools Required
+### Core Packages
+| Tool | Purpose | Installation |
+|------|---------|--------------|
+| **OpenCV** | Image processing | `pip install opencv-python` |
+| **Tesseract OCR** | Text extraction | [Windows](https://github.com/UB-Mannheim/tesseract/wiki) • `brew install tesseract` (Mac) • `sudo apt install tesseract-ocr` (Linux) |
+| **pytesseract** | Python wrapper for Tesseract | `pip install pytesseract` |
+| **Streamlit** | Web app interface | `pip install streamlit` |
+| **Jupyter** | Notebook interface | `pip install jupyter` |
+
+### Supporting Libraries
+```text
+numpy         # Array operations
+matplotlib    # Visualization (Jupyter)
+Pillow        # Image handling
+python-dotenv # Environment variables (optional)
+
+
 ![Platforms](https://img.shields.io/badge/Platform-Windows%20|%20macOS%20|%20Linux-blue) 
 ![Demo](https://img.shields.io/badge/Demo-Streamlit-important) 
 ![License](https://img.shields.io/badge/License-MIT-success)
