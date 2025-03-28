@@ -140,9 +140,15 @@ pip install -r requirements.txt
 streamlit run app.py  # Web app
 jupyter notebook      # Jupyter version
 ```
+## Sample of the project
 
-![Cross-Platform Demo](demo_all_os.png)
+When you run ScanAnalyze.py you get this
+![ScanAnalyze analysis](ScanAnalyze1.png)
+![ScanAnalyze Grouped text](ScanAnalyze2.png)
 
+When you run ScanDoc.py you get this
+![ScanDoc analysis](ScanDoc1.png)
+![ScanDoc Extracted text](ScanDoc2.png)
 ---
 
 ## 🚨 Troubleshooting
