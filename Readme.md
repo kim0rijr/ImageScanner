@@ -143,12 +143,12 @@ jupyter notebook      # Jupyter version
 ## Sample of the project
 
 When you run ScanAnalyze.py you get this
-![ScanAnalyze analysis](ImageScanner/ScanAnalyze1.png)
-![ScanAnalyze Grouped text](ImageScanner/ScanAnalyze2.png)
+![ScanAnalyze analysis](ScanAnalyze1.PNG)
+![ScanAnalyze Grouped text](ScanAnalyze2.PNG)
 
 When you run ScanDoc.py you get this
-![ScanDoc analysis](ImageScanner/ScanDoc1.png)
-![ScanDoc Extracted text](ImageScanner/ScanDoc2.png)
+![ScanDoc analysis](ScanDoc1.PNG)
+![ScanDoc Extracted text](ScanDoc2.PNG)
 ---
 
 ## 🚨 Troubleshooting
