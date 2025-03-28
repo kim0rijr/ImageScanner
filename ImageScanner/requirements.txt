@@ -6,8 +6,8 @@ numpy==2.2.4                 # Array handling
 
 # Interface options (choose one or both)
 streamlit==1.44.0              # For web app version
-jupyter==1.0.0                  # For notebook version
-matplotlib==3.7.1               # For Jupyter visualizations
+#jupyter==1.0.0                  # For notebook version
+#matplotlib==3.7.1               # For Jupyter visualizations
 
 # Additional dependencies
 pillow==11.1.0                  # Image handling for Tesseract
